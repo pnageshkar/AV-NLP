@@ -1,0 +1,9 @@
+*.pdf
+dataset/
+*.txt
+*.csv
+*.winzip
+*.zip
+*.png
+*.pkl
+*.h5
